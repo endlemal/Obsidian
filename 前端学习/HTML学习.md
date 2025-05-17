@@ -26,4 +26,4 @@ https://forum-zh.obsidian.md/t/topic/39103/9
 obsidian本质是一个md编辑管理软件，md文件本身就不建议写大量其他语法，更不建议写html或者css语法进去，写yaml已经是很臃肿的延拓md功能的体现了。
 如果你对于字体颜色、段落格式、排版的要求高，建议就用word或latex做笔记（不会有人想用html做笔记吧），放弃md文件。
 实际上md也不比word高尚。如果你想管理其他格式文件，也可以用obsidian进行管理，或者用系统文件夹+git管理，也是非常不错的。
-
+...
