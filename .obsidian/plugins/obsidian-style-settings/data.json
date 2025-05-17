@@ -1,0 +1,16 @@
+{
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
+  "anuppuccin-theme-settings@@anp-print": true,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://i.miji.bid/2025/05/16/89df248ff81805c9b437b6e8640480e7.png\")",
+  "blue-topaz-theme@@blur-depth": 0,
+  "blue-topaz-theme@@brightness-4-bg": 0.9,
+  "blue-topaz-theme@@saturate-4-bg": 1.3
+}
