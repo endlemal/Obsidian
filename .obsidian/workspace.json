@@ -167,8 +167,8 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "media-extended:Open media": false,
-      "pkmer:Open Pkmer Market": false
+      "pkmer:Open Pkmer Market": false,
+      "media-extended:Open media": false
     }
   },
   "active": "39ae5987f20460c0",
